@@ -1,0 +1,4 @@
+# Exercise 5
+
+Program A prints 3 to the screen.
+Program B prints an undefined local variable error because x is unavailable, as it was created within the scope of the do/end block.
